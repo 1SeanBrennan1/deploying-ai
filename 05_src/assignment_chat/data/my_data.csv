@@ -1,0 +1,7 @@
+
+id,title,author,category,date,text_column
+1,Introduction to Machine Learning,Dr. Jane Smith,Technology,2024-01-15,"Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. It focuses on developing computer programs that can access data and use it to learn for themselves."
+2,The History of Coffee,Maria Garcia,Food & Drink,2023-11-20,"Coffee originated in Ethiopia, where legend says a goat herder named Kaldi discovered the beans after noticing his goats became energetic after eating them. From Ethiopia, coffee spread to Yemen and then throughout the Arabian Peninsula."
+3,Climate Change Basics,Prof. Robert Chen,Science,2024-03-10,"Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, but since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels."
+4,Python Programming Tips,Sarah Johnson,Technology,2024-02-28,"Python is a high-level, interpreted programming language known for its readability and simplicity. Some key tips for beginners include: use meaningful variable names, write comments to explain your code, and practice regularly with small projects."
+5,World War II Overview,Dr. Michael Brown,History,2023-09-15,"World War II was a global war that lasted from 1939 to 1945. It involved the vast majority of the world's countries, including all the great powers, eventually forming two opposing military alliances: the Allies and the Axis."
